@@ -26,7 +26,7 @@
 <br />
 
   <p align="center">
-    project_description
+    OhNc Online halv Nort Cyprus
     <br />
     <a href="https://github.com/De-Code-Slayer/OhNc"><strong>Explore the docs »</strong></a>
     <br />
